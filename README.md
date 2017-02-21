@@ -3,4 +3,4 @@
 
 > [Lottie](https://github.com/airbnb/lottie-android) 解析Adobe After Effects动画导出的JSON文件并把它们渲染成本地动画的库
 
-![Example1](https://github.com/airbnb/lottie-android/gifs/Example1.gif)
+![Example1](https://raw.githubusercontent.com/airbnb/lottie-android/master/gifs/Example1.gif)
